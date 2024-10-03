@@ -1,0 +1,84 @@
+
+.fungal{
+  font-family: 'FungalGX';
+  font-variation-settings:"grow" 571, "THCK" 676 ;
+}
+
+
+.bricolage{
+  font-family: 'BricolageGrotesque';
+  font-variation-settings: "wdth" 80, "wght" 200, "opsz" 35 ;
+}
+
+i{
+  font-size: 100px;
+  color:black;
+}
+  
+  #plic1{
+  position: relative;
+  }
+
+  #plic2{
+    position: relative;
+    top: 50px;
+    }
+
+    #plic3{
+      position: relative;
+      top: 100px;
+      }
+
+      #plic4{
+        position: relative;
+        top: 150px;
+        }
+
+        #plic5{
+          position: relative;
+          top: 200px;
+          }
+
+          #plic6{
+            position: relative;
+            top: 250px;
+            }
+#tictac{
+  position: relative;
+  top: 20px;
+}
+
+#tic1{
+  position:relative;
+  top: -50px;
+}
+
+#tac1{
+  position:relative;
+  top: 0px;
+  left: 70px;
+}
+
+#tic2{
+  position:relative;
+  top: 50px;
+  left:135px;
+}
+
+#tac2{
+  position:relative;
+  top: 100px;
+  left:205px;
+}
+
+#tic3{
+  position:relative;
+  top: 150px;
+  left:265px;
+}
+
+#tac3{
+  position:relative;
+  top: 200px;
+  left:335px;
+}
